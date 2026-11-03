@@ -1,0 +1,6 @@
+{
+  "name": "Origins AI System - Layanan Visual & Chatbot",
+  "description": "Photorealistic agency presentation mockup of minimalist wooden desk, WhatsApp customer service chatbot, and printed cafe visual menu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
